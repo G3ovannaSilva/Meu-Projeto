@@ -1,0 +1,117 @@
+body {
+    background-color: black;
+}
+
+li {
+    margin: 0;
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+a {
+    text-decoration: none;
+    color:aliceblue;
+}
+
+h1 {
+    text-align: left;
+    font-size: 200%;
+    color:aliceblue;
+}
+
+ul {
+    text-align: left;
+    color: aliceblue;
+    font-size: 130% ;
+    text-decoration: none;
+    background-color: rgb(166, 11, 161);
+}
+
+div {
+    text-align: center;
+}
+
+#perfil {
+    border: 4px solid rgb(166, 11, 161);
+    border-radius: 200px;
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+    text-align: center;
+}
+
+p {
+    text-align: left;
+    color: aliceblue;
+    font-size: 100%;
+}
+
+strong {
+    color: rgb(166, 11, 161);
+    font-size: 150%;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
+
+#Projetos{
+    text-align: center;
+    color: rgb(166, 11, 161);
+    font-size: 200%;
+}
+
+#barbearia {
+    height: 300px;
+    width: 1000px;
+}
+
+#informação {
+    text-align: left;
+    color: aliceblue;
+    font-size: 130% ;
+}
+
+#Contato {
+    text-align: center;
+    color: aliceblue;
+    font-size: 200% ;
+    top: 50%;
+    color: rgb(166, 11, 161);
+}
+
+.contact-form input[type=emaill]{
+    height: 1000%;
+    width: 100%;
+    padding: 10px 0;
+    margin:8px 0;
+}
+
+.contact-form input[type=text] {
+    color: rgb(15, 15, 15);
+    height: 1000%;
+    width: 100%;
+    padding: 60px 0;
+    margin:8px 0;
+}
+
+button {
+    locor: black;
+    background-color: white;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+
+#Emaill {
+    color: aliceblue;
+    text-align: left;
+    font-size: 100%;
+}
+
+#Mensagem {
+    color: aliceblue;
+    text-align: left;
+    font-size: 100%;
+}
